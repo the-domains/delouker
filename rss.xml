@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[delouker]]></title>
         <description><![CDATA[delouker]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/delouker/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 23 Nov 2015 00:07:11 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Mon, 23 Nov 2015 02:11:45 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/delouker/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Is this a new post?]]></title>
             <description><![CDATA[<article><h1>Is this a new post?</h1><p>Hi. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/3029cb6b-7053-470d-a962-7ed8b4447dce.jpg"></article>]]></description>
-            <link>undefinedis-this-a-new-post/index.html</link>
+            <link>https://thegrid.ai/delouker/is-this-a-new-post/index.html</link>
             <guid isPermaLink="false">4f58abe1-6a55-47dd-baaa-55fe9f83e5f9</guid>
             <pubDate>Mon, 23 Nov 2015 00:07:02 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[H&O Stuff]]></title>
+            <description><![CDATA[<article><h1>H&O Stuff</h1><p>Hi there. </p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/f2b1e0bf-e6f7-4979-af27-4ea753544fd9.png"></article>]]></description>
+            <link>https://thegrid.ai/delouker/hando-stuff/index.html</link>
+            <guid isPermaLink="false">4dfe45d6-530e-41be-8b53-9cc2512dcb40</guid>
+            <pubDate>Mon, 23 Nov 2015 02:11:16 GMT</pubDate>
         </item>
     </channel>
 </rss>
